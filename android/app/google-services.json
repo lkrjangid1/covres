@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891027245359",
+    "project_id": "covres-36534",
+    "storage_bucket": "covres-36534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891027245359:android:988a0f6102640a218e39da",
+        "android_client_info": {
+          "package_name": "com.covres.covres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891027245359-pg0bd3g8901ucfktt41ic3d5cja89a89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3U1CQQZKFBR5TVmm2KHP_D21z1ytbvYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891027245359-pg0bd3g8901ucfktt41ic3d5cja89a89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
